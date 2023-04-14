@@ -1,0 +1,1 @@
+export const LOTTERY_WEBSITE_BASE_URL = 'https://www.lotteryagent.kerala.gov.in';
